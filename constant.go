@@ -6,5 +6,5 @@ type TestConstant struct {
 }
 
 func TestPrintConstant() string {
-	return "Hello"
+	return "Golang 101"
 }
